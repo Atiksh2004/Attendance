@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887304135249",
+    "project_id": "attendancetracker-ff4f9",
+    "storage_bucket": "attendancetracker-ff4f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887304135249:android:27f1289656aa72fdb94e70",
+        "android_client_info": {
+          "package_name": "com.ymsli.attendancetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887304135249-n03bge3osj38qosutcurim3ka09ln6ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZhtcfbESRqzUvG2FE5Z8NHKVdeCBFN6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887304135249-n03bge3osj38qosutcurim3ka09ln6ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
